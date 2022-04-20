@@ -1,0 +1,22 @@
+{
+  "name": "filetoc",
+  "version": "1.0.0",
+  "description": "file create demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jersonwei/prehook.git"
+  },
+  "keywords": [
+    "fileToc"
+  ],
+  "author": "jersonwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jersonwei/prehook/issues"
+  },
+  "homepage": "https://github.com/jersonwei/prehook#readme"
+}
